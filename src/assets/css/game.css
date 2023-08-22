@@ -1,0 +1,31 @@
+.table {
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.secondRow {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+img {
+  object-fit: cover;
+  width: 100%;
+}
+
+.deckCards {
+  background-color: orange;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
+
+.loading {
+  font-style: bold;
+  font-size: 25px;
+  color: blue;
+}

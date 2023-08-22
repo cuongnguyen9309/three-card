@@ -1,0 +1,9 @@
+.playerHand {
+  width: 30%;
+  text-align: center;
+}
+
+.card-wrapper {
+  display: flex;
+  width: 100%;
+}
